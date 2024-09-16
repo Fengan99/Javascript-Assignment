@@ -45,3 +45,8 @@ if (isAdult) {
 else {
   console.log("favorite number is odd");
    }
+
+
+function makelasagna(): void {
+}
+
