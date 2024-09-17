@@ -1,3 +1,5 @@
+//BOOOLLEEEAAAANNNN 16 SEPTEMBER
+
 //const birthYear = 1999;
 //const currentyear = 2024;
 //let ageOfPerson = currentyear -birthYear;
@@ -15,7 +17,16 @@
 //console.log("personen heter fredrik feng och är " + ageOfPerson);
 //console.log("personen är " +ageOfPerson +" gammal" + " och är född i Sverige");
 
-IF OCH IF SATS / BOOLEAN
+
+
+
+
+
+
+
+
+
+// IF OCH IF SATS / BOOLEAN
 
 
 
@@ -40,3 +51,9 @@ IF OCH IF SATS / BOOLEAN
   //console.log("Player is not on the ground ");
 //console.log("player CANNOT JUMP!");
 //}
+
+
+
+
+
+
