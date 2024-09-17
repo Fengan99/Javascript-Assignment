@@ -33,3 +33,38 @@ function walkthreesteps (){
 }
 
 walkthreesteps()
+
+//Funtion with no inputs and an output
+//function getBankBalance() {
+//  return "Du kommer bli rik";
+//}
+//console.log(getBankBalance());
+
+
+//Fucntions with inputs and no outpit HUR MAN ADDERAR
+function addOne(inputNumber) {
+  inputNumber += 100;
+  console.log(inputNumber);
+
+}
+
+// Calling
+
+
+addOne(8);
+
+
+//Function with input(s) and an output HUR MAN TAR UPPHÖJT I TAL!
+function square(numberToSquare) {
+  return numberToSquare * numberToSquare;
+}
+//Calling
+
+let squaredNumber = square(15);
+console.log(squaredNumber);
+console.log(square(15));
+
+
+
+
+
